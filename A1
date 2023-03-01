@@ -6,3 +6,5 @@ partial link test
 link test
 css
 xpath
+xpath by attribute
+xpath by text
